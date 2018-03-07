@@ -1,0 +1,239 @@
+html,body{
+	margin: 0;
+	border: 0;
+	overflow-x:hidden;
+}
+
+.photo-grid figcaption {
+	background: rgba(0,0,0,0.8);
+	color: white;
+	display: table;
+	height: 100%;
+	left: 0;
+	opacity: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	-webkit-transition: all 300ms;
+	-moz-transition: all 300ms;
+	transition: all 300ms;
+	-webkit-transition-delay: 100ms;
+	-moz-transition-delay: 100ms;
+	transition-delay: 100ms;
+	z-index: 100;
+}
+
+.photo-grid figcaption p {
+	display: table-cell;
+	font-size: 1.5em;
+	position: relative;
+	top: -40px;
+	width: 250px;
+	-webkit-transition: all 300ms ease-out;
+	-moz-transition: all 300ms ease-out;
+	transition: all 300ms ease-out;
+	vertical-align: middle;
+}
+
+.photo-grid b:hover figcaption p {
+	-moz-transform: translateY(40px);
+	-webkit-transform: translateY(40px);
+	transform: translateY(40px);
+}
+
+.photo-grid img {
+	display: block;
+	height: auto;
+	-webkit-transition: all 300ms;
+	-moz-transition: all 300ms;
+	transition: all 300ms;
+	max-width: 100%;
+}
+
+.photo-grid b:hover img {
+	-webkit-transform: scale(1.4);
+	-moz-transform: scale(1.4);
+	transform: scale(1.4);
+}
+
+.photo-grid b:hover figcaption {
+	opacity: 1;
+}
+
+.photo-grid {
+	margin: 1em auto;
+	max-width: 1106px;
+	text-align: center;
+}
+
+.photo-grid b {
+	border: 2px solid black;
+	display: inline-block;
+	margin: 0;
+	width: 250px;
+}
+
+.photo-grid img {
+	display: block;
+	height: auto;
+	max-width: 100%;
+}
+
+.photo-grid figure {
+	height: 250px;
+	overflow: hidden;
+	position: relative;
+	width: 250px;
+}
+
+.photo-grid figcaption {
+	background: rgba(6,105,163,0.8);
+	color: white;
+	display: table;
+	height: 100%;
+	left: 0;
+	opacity: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 100;
+}
+
+.photo-grid figcaption p {
+	display: table-cell;
+	font-size: 1.5em;
+	position: relative;
+	top: -40px;
+	width: 250px;
+	vertical-align: middle;
+}
+
+.main-navbar{
+	font-family: 'Orbitron', sans-serif;
+	background-color:#2c3e50;
+	color:white;
+}
+
+#section1,#section2,#section3,#section4{
+	font-family: 'ubuntu', sans-serif;
+}
+
+.edge{
+	margin-top:20px;
+        font-family:'Orbitron',sans-serif;
+}
+
+.edge h1{
+	padding:10px;
+}
+
+#abt_ieee{
+	font-family: 'Orbitron', sans-serif;
+}
+
+#info_carousel div{
+	height:auto !important;
+	text-align:center;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#logo img{
+	margin-left:auto;
+	margin-right: auto;
+	display: block;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Anaheim);
+
+*{
+  margin: 0;
+  padding: 0;
+  outline: none;
+  border: none;
+	box-sizing: border-box;
+}
+*:before,
+*:after{
+	box-sizing: border-box;
+}
+
+
+#random_shots_carousel{
+	display: table;
+	margin: 5% auto 0;
+	text-transform: uppercase;
+	font-family: 'Anaheim', sans-serif;
+	font-size: 4em;
+	font-weight: 400;
+	text-shadow: 0 1px white, 0 2px black;
+}
+.random_shots_carousel_container{
+	margin: 4% auto;
+	width: 210px;
+	height: 140px;
+	position: relative;
+	perspective: 1000px;
+}
+#carousel{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	transform-style: preserve-3d;
+	animation: rotation 40s infinite linear;
+}
+#carousel:hover{
+	animation-play-state: paused;
+}
+#carousel figure{
+	display: block;
+	position: absolute;
+	width: 150px;
+	height: 120px;
+	left: 10px;
+	top: 10px;
+	background: black;
+	overflow: hidden;
+	border: solid 1px black;
+}
+
+#carousel figure:nth-child(1){transform: rotateY(0deg) translateZ(420px);}
+#carousel figure:nth-child(2) { transform: rotateY(24deg) translateZ(420px);}
+#carousel figure:nth-child(3) { transform: rotateY(48deg) translateZ(420px);}
+#carousel figure:nth-child(4) { transform: rotateY(72deg) translateZ(420px);}
+#carousel figure:nth-child(5) { transform: rotateY(96deg) translateZ(420px);}
+#carousel figure:nth-child(6) { transform: rotateY(120deg) translateZ(420px);}
+#carousel figure:nth-child(7) { transform: rotateY(144deg) translateZ(420px);}
+#carousel figure:nth-child(8) { transform: rotateY(168deg) translateZ(420px);}
+#carousel figure:nth-child(9) { transform: rotateY(192deg) translateZ(420px);}
+#carousel figure:nth-child(10) {transform: rotateY(216deg) translateZ(420px);}
+#carousel figure:nth-child(11) { transform: rotateY(240deg) translateZ(420px);}
+#carousel figure:nth-child(12) { transform: rotateY(264deg) translateZ(420px);}
+#carousel figure:nth-child(13) { transform: rotateY(288deg) translateZ(420px);}
+#carousel figure:nth-child(14) { transform: rotateY(312deg) translateZ(420px);}
+#carousel figure:nth-child(15) { transform: rotateY(336deg) translateZ(420px);}
+
+.random_pics{
+	-webkit-filter: grayscale(0.6);
+        height:100%;
+        width:100%
+	cursor: pointer;
+	transition: all 0.5s ease;
+}
+
+.random_pics:hover{
+	-webkit-filter: grayscale(0);
+  	transform: scale(1.2,1.2);
+}
+
+@keyframes rotation{
+	from{
+		transform: rotateY(0deg);
+	}
+	to{
+		transform: rotateY(360deg);
+	}
+}
+
+.active{
+color:rgba(255,0,0,0.8) !important;
+}

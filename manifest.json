@@ -1,0 +1,16 @@
+{
+  "name": "IEEE-VESIT",
+  "short_name": "IEEE-VESIT",
+  "version": "1.0",
+  "description": "A website for IEEE-VESIT",
+  "author": {
+    "name": "Abhishek Kuvar"
+  },
+  "icons":[
+  {
+	"src":"logo.ico",
+	"sizes":"48x48 72x72 96x96 128x128 256x256"
+  }
+  ],
+  "display":"standalone"
+}

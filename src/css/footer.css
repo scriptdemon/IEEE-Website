@@ -1,0 +1,55 @@
+.foot{
+	color:white;
+	background-color: #34495e;
+	padding-bottom: 20px;
+}
+
+.foot-content{
+	margin-top: 10px;
+	margin-bottom:20px;
+}
+
+
+.foot-content > p{
+	color:#b3b3b3;
+}
+
+
+.breadcrumb{
+	background-color: inherit;
+}
+
+.breadcrumb > li > a{
+	color: #b3b3b3;
+	text-decoration: none;
+}
+
+.breadcrumb > li > a:hover{
+	color: white;
+	text-decoration: underline;
+}
+
+.sm_button{
+	margin-right:10px;
+	color: #b3b3b3;
+}
+
+#fb_button:hover{
+	color:#3B5998;
+}
+
+#twitter_button:hover{
+	color:#80d4ff;
+}
+
+#youtube_button:hover{
+	margin-left:0px;
+}
+
+#youtube_button:hover{
+	color:rgb(255, 0, 0);
+}
+
+.fa-instagram>a:hover{
+	color:#8a3ab9;
+}

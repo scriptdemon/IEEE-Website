@@ -1,0 +1,299 @@
+{
+"staff":[
+{
+"name":"Mrs. Gresha Bhatia",
+"img":"Bhatia.jpg",
+"fb":"https://www.facebook.com/gresha.bhatia"
+},
+{
+"name":"Mrs. Shobha Krishnan",
+"img":"Shobha.jpg",
+"fb":"https://www.facebook.com/shobha.krishnan.94"
+}
+],
+"senior":[
+{
+"img":"Tamanna.jpg",
+"name":"Tamanna Rupani",
+"post":"Chairperson",
+"fb":"https://www.facebook.com/tamanna.rupani.3"
+},
+{
+"img":"Wakade.jpg",
+"name":"Aditya Wakade",
+"post":"Vice-chairperson",
+"fb":"https://www.facebook.com/aditya.wakade.507"
+},
+{
+"img":"Poojan.jpg",
+"name":"Poojan Sanura",
+"post":"CEO",
+"fb":"https://www.facebook.com/pujanstar"
+},
+{
+"img":"Vasu.jpg",
+"name":"Yash Vaswani",
+"post":"CEO",
+"fb":"https://www.facebook.com/yash.vaswani.3"
+},
+{
+"img":"Rohan.jpg",
+"name":"Rohan Nawani",
+"post":"Senior Editor",
+"fb":"https://www.facebook.com/rohan.nawani.7"
+},
+{
+"img":"Jeet.jpg",
+"name":"Jeet Gandhi",
+"post":"Senior Web Editor",
+"fb":"https://www.facebook.com/jeet.gandhi.10"
+},
+{
+"img":"Prasanna.jpg",
+"name":"Prasanna Kulkarni",
+"post":"TAB",
+"fb":"https://www.facebook.com/prasanna.kulkarni.397"
+
+},
+{
+"img":"Mohit.jpg",
+"name":"Mohit Vanage",
+"post":"TAB",
+"fb":"https://www.facebook.com/mohitdv"
+},
+{
+"img":"Dhiraj.jpg",
+"name":"Dhiraj Kudva",
+"post":"TAB",
+"fb":"https://www.facebook.com/kudva.dhiraj"
+}
+],
+
+"junior":[
+{
+"img":"Narayan.jpg",
+"name":"Narayan Mundhara",
+"post":"Managing Secretary",
+"fb":"https://www.facebook.com/narayan.mundhara.1"
+},
+{
+"img":"Sufyan.jpg",
+"name":"Sufyan Khan",
+"post":"Operations Secretary",
+"fb":"https://www.facebook.com/profile.php?id=100009685845682"
+},
+{
+"img":"Sahil.jpg",
+"name":"Sahil Koul",
+"post":"Executive Officer",
+"fb":"https://www.facebook.com/sahilkoul731"
+},
+{
+"img":"Clive.jpg",
+"name":"Clive Aaron D'souza",
+"post":"Executive Officer",
+"fb":"https://www.facebook.com/clive.dsouza7"
+},
+{
+"img":"Soham.jpg",
+"name":"Soham Mehta",
+"post":"Treasurer",
+"fb":"https://www.facebook.com/soham.mehta.7"
+},
+
+{
+"img":"Parmeen.jpg",
+"name":"Parmeen Bindra",
+"post":"Junior Editor",
+"fb":"https://www.facebook.com/parmeen.bindra"
+},
+{
+"img":"Madhu.jpg",
+"name":"Madhu Raut",
+"post":"Junior Editor",
+"fb":"https://www.facebook.com/profile.php?id=100010355526763"
+},
+{
+"img":"Harshal.jpg",
+"name":"Harshal Talele",
+"post":"MPO",
+"fb":"https://www.facebook.com/harshal.talele.75"
+},
+{
+"img":"Harini.jpg",
+"name":"Harini Iyer",
+"post":"MPO",
+"fb":"https://www.facebook.com/harini0497"
+},
+{
+"img":"Kuvar.jpg",
+"name":"Abhishek Kuvar",
+"post":"Junior WebEditor",
+"fb":"https://www.facebook.com/abhishek.kuvar.5"
+},
+{
+"img":"Tejas.jpg",
+"name":"Tejas Ingale",
+"post":"Junior WebEditor",
+"fb":"https://www.facebook.com/tejas.ingale.5"
+},
+{
+"img":"Vani.jpg",
+"name":"Vani Chaudhary",
+"post":"WIE & EXECOM",
+"fb":"https://www.facebook.com/vani.chaudhary.9"
+},
+{
+"img":"Mihir.jpg",
+"name":"Mihir Joshi",
+"post":"EXECOM",
+"fb":"https://www.facebook.com/mihir30"
+},
+{
+"img":"Narkhede.jpg",
+"name":"Pratik Narkhede",
+"post":"EXECOM",
+"fb":"https://www.facebook.com/pratik.narkhede.52"
+},
+{
+"img":"Aditya.jpg",
+"name":"Aditya Gogwekar",
+"post":"EXECOM",
+"fb":"https://www.facebook.com/aditya.gogwekar"
+},
+{
+"img":"Saurabh.jpeg",
+"name":"Saurabh Band",
+"post":"EXECOM",
+"fb":"https://www.facebook.com/band.saurabh.12"
+},
+{
+"img":"Kalpesh.jpg",
+"name":"Kalpesh Juvekar",
+"post":"EXECOM",
+"fb":"https://www.facebook.com/kjuvekar"
+},
+{
+"img":"Ritika.jpg",
+"name":"Ritika Mendjoge",
+"post":"EXECOM",
+"fb":"https://www.facebook.com/ritika.mendjoge"
+},
+{
+"img":"Kaustubh.jpg",
+"name":"Kaustubh Kulpe",
+"post":"EXECOM",
+"fb":"https://www.facebook.com/kaustubh.kulpe"
+},
+{
+"img":"Keyur.jpg",
+"name":"Keyur Prabhu",
+"post":"EXECOM",
+"fb":"https://www.facebook.com/keyurprabhu007"
+}
+],
+"coord":[
+{
+"img":"sarthak_cfc.png",
+"name":"Sarthak Dadhakar",
+"fb":"https://www.facebook.com/saru.dadkr"
+},
+
+{
+"img":"Umax.jpg",
+"name":"Umesh Ramchandani",
+"fb":"https://www.facebook.com/umesh.ramchandani.39"
+},
+
+{
+"img":"Ajinkya.jpg",
+"name":"Ajinkya Pawale",
+"fb":"https://www.facebook.com/ajinkya.pawale"
+},
+{
+"img":"Garima.jpg",
+"name":"Garima Bharadwaj",
+"fb":"https://www.facebook.com/garima.bhardwaj.18"
+},
+{
+"img":"Monica.jpg",
+"name":"Monica Aswani",
+"fb":"https://www.facebook.com/monica.aswani.73?fref=ts"
+},
+{
+"img":"Nitish.jpg",
+"name":"Nitish Nayak",
+"fb":"https://www.facebook.com/nitish.nayak.3726"
+},
+{
+"img":"Radhika.jpg",
+"name":"Radhika Angolkar",
+"fb":"https://www.facebook.com/radhika.angolkar.7"
+},
+{
+"img":"Sarvesh.jpg",
+"name":"Sarvesh Patil",
+"fb":"https://www.facebook.com/sarvesh.patil.3956"
+},
+{
+"img":"Mukul.jpg",
+"name":"Mukul Sharma",
+"fb" : "https://www.facebook.com/mukul.sharma.75470316"
+},
+{
+"img":"Dhaval.jpg",
+"name":"Dhaval Potdar",
+"fb":"https://www.facebook.com/dhavalpotdar"
+},
+{
+"img":"Shazmeen.jpg",
+"name":"Shazmeen Shaikh",
+"fb": "https://www.facebook.com/shaxu.shaikh"
+},
+{
+"img":"Tanay.jpg",
+"name":"Tanay Roman",
+"fb": "https://www.facebook.com/tanay.roman"
+},
+{
+"img":"Vaidehi.jpg",
+"name":"Vaidehi Joshi",
+"fb": "https://www.facebook.com/vaidehi.joshi.79"
+},
+{
+"img":"Akshay.jpg",
+"name":"Akshay Ghule",
+"fb": "https://www.facebook.com/profile.php?id=100009827824273"
+},
+{
+"img":"Mahesh.jpg",
+"name":"Mahesh Kulkarni",
+"fb": "https://www.facebook.com/mahesh.kulkarni.3511"
+},
+{
+"img":"Sarthak.jpg",
+"name":"Sarthak Khanna",
+"fb": "https://www.facebook.com/sarthak.khanna.7"
+},
+{
+"img":"Prateek.jpg",
+"name":"Prateek Kak",
+"fb": "https://www.facebook.com/prateek.kak.9"
+},
+{
+"img":"Deepa.jpeg",
+"name":"Deepa Narayan",
+"fb": "https://www.facebook.com/deepa.narayanan.90410"
+},
+{
+"img":"Saswati.jpg",
+"name":"Saswati Pradhan",
+"fb": "https://www.facebook.com/saswati.pradhan.9421"
+},
+{
+"img":"anuj_1.jpg",
+"name":"Anuj Chanchlani",
+"fb": "https://www.facebook.com"
+}
+]
+}
